@@ -1,14 +1,3 @@
-#
-# NWEN 241 Programming Assignment 5
-# kgame.py Python Source File
-#
-# Name:
-# Student ID:
-#
-# IMPORTANT: Implement the functions specified in kgame.h here.
-# You are free to implement additional functions that are not specified in kgame.h here.
-#
-
 import random
 
 # This is the title of the game
