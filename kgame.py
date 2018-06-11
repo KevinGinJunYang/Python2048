@@ -207,6 +207,8 @@ def kgame_getScore(score):
         return 512;
     if(score == 'J'):
         return 1024;
+    if(score == 'K'):
+        return 2048;
 
 
 
